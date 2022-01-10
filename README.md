@@ -12,7 +12,8 @@ Light Model for Non-CUDA device:
 1. Modify the input path, output path and model path in eval.py
 2. cd SAFace, run python eval.py
 
-### Detect
+### Detect demo
+cd SAFace, run python detect.py --image-path='image_path'
 
 ## Train
 
