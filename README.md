@@ -9,7 +9,7 @@ Light Model for Non-CUDA device:
 
 ## Validation on WIDER FACE
 
-<img src="https://github.com/zhouliguo/SAFace/blob/main/results/e.png" height="350"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/m.png" height="350"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/h.png" height="350"/>
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/e.png" height="330"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/m.png" height="330"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/h.png" height="330"/>
 
 ##  Detection examples
 
