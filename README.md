@@ -14,10 +14,10 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 1. Modify the input path, output path and model path in eval.py
 2. cd SAFace, run python eval.py
 
-### Detect demo
+### Detect Demo
 1. cd SAFace, run python detect.py --image-path='image_path'
 
-### Speed test on CPU
+### Speed Test on CPU
 1. Build a Visul Studio C++ project with OpenCV and LibTorch
 2. Complie detect.cpp
 
@@ -27,7 +27,7 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/e.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/m.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/h.png" height="300"/>
 
-## Robustness Comparision on DarkFace, DFD and MAFA
+## Robustness Comparison on DarkFace, DFD and MAFA
 ## Detection examples
 
 ### WIDER FACE
