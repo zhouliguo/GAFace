@@ -8,6 +8,13 @@ Model: https://drive.google.com/file/d/1CdAYQFW93naWBTLBsD9vy8oZXJ5SKpr3/view?us
 Light Model for Non-CUDA device:
 
 ## Test
+### Evaluate WIDER FACE
+1. Modify the input path, output path and model path in eval.py
+2. cd SAFace, run python eval.py
+
+### Detect
+
+## Train
 
 ## Validation on WIDER FACE
 
