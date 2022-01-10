@@ -14,7 +14,7 @@ Light Model for Non-CUDA device:
 ##  Detection examples
 
 ### WIDER FACE
-<img src="https://github.com/zhouliguo/SAFace/blob/main/results/w1.png" height="320"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w2.png" height="320"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w3.png" height="320"/>
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/w1.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w2.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w3.png" height="300"/>
 ### DARK FACE
 
 ## Test
