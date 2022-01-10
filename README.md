@@ -1,6 +1,8 @@
 # SAFace
 SQUARE ANCHORS FOR FAST AND ACCURATE FACE DETECTION
 
+This repository is under building
+
 ## Download
 
 Model: https://drive.google.com/file/d/1CdAYQFW93naWBTLBsD9vy8oZXJ5SKpr3/view?usp=sharing
@@ -13,7 +15,11 @@ Light Model for Non-CUDA device:
 2. cd SAFace, run python eval.py
 
 ### Detect demo
-cd SAFace, run python detect.py --image-path='image_path'
+1. cd SAFace, run python detect.py --image-path='image_path'
+
+### Speed test on CPU
+1. Build a Visul Studio C++ project with OpenCV and LibTorch
+2. Complie detect.cpp
 
 ## Train
 
