@@ -25,12 +25,12 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 ## Validation on WIDER FACE
 
-<img src="https://github.com/zhouliguo/SAFace/blob/main/results/e.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/m.png" height="300"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/h.png" height="300"/>
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/wider.png">
 
 ## Robustness Comparison on DarkFace, DFD and MAFA
 ## Detection examples
 
 ### WIDER FACE
-<img src="https://github.com/zhouliguo/SAFace/blob/main/results/w1.png" height="225"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w2.png" height="225"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/w3.png" height="225"/>
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/wider_example.png">
 ### DARK FACE
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/311d.png" height="315"><img src="https://github.com/zhouliguo/SAFace/blob/main/results/1041d.png" height="315">
