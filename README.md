@@ -27,7 +27,9 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/wider.png">
 
-## Robustness Comparison on DarkFace, DFD and MAFA
+## Comparison on DarkFace, DFD and MAFA
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/ddm.png">
+
 ## Detection examples
 
 ### WIDER FACE
