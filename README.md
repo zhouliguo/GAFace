@@ -23,12 +23,17 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 ## Train
 
-## Validation on WIDER FACE
+## Comparison of Accuracy
 
+### WIDER FACE
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/wider.png">
 
-## Comparison on DarkFace, DFD and MAFA
+### DarkFace, DFD and MAFA
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/ddm.png">
+
+## Comparison of Speed
+
+### Light Model on 
 
 ## Detection examples
 
