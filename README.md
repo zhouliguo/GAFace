@@ -33,7 +33,8 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 ## Comparison of Speed
 
-### Light Model on 
+### Light Model on Intel i7-5930K CPU
+<img src="https://github.com/zhouliguo/SAFace/blob/main/results/light.png">
 
 ## Detection examples
 
