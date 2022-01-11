@@ -32,5 +32,6 @@ Light Model for Non-CUDA device: https://github.com/zhouliguo/SAFace/blob/main/w
 
 ### WIDER FACE
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/wider_example.png">
+
 ### DARK FACE
 <img src="https://github.com/zhouliguo/SAFace/blob/main/results/dark_example.png">
