@@ -1,5 +1,5 @@
-# SAFace
-SQUARE ANCHORS FOR FAST AND ACCURATE FACE DETECTION
+# GAFace
+Fast and Accurate Face Detection using Feature Pyramid with Grid Anchors
 
 This repository is under building
 
